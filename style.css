@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto Mono', monospace;
-    margin: auto;
+    margin: 0;
 }
 
 h1 {
@@ -42,4 +42,13 @@ section {
 .top-banner {
     background-image: url(pic/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    padding-top: 200px;
+    background-image: url(pic/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+
 }
