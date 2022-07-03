@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    margin: auto;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.fontColor {
+    color: orange;
+}
+
+section {
+    display: flex;
+
+}
+
+.halfWidth {
+    width: 50%;
+    padding-left: 30px;
+
+
+
+}
+
+.contact-me {
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    padding: 10px, 40px;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+}
+
+.halfWidth img {
+    width: 80%;
+    padding-top: 50px;
+}
+
+.top-banner {
+    background-image: url(pic/top-banner.png);
+    background-repeat: no-repeat;
+}
