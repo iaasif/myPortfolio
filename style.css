@@ -26,12 +26,14 @@ section {
 }
 
 .contact-me {
-    background-image: linear-gradient(orange, tomato);
     text-decoration: none;
-    padding: 10px, 40px;
-    font-weight: 700;
-    color: white;
+    background: linear-gradient(orange, tomato);
+    padding: 10px 40px;
     border-radius: 5px;
+
+    color: white;
+    font-weight: 700;
+
 }
 
 .halfWidth img {
@@ -49,6 +51,6 @@ section {
     background-image: url(pic/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    
+
 
 }
