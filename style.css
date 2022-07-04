@@ -54,3 +54,29 @@ h1 {
 
 
 }
+
+.xp-dev{
+    width: 40%;
+    box-shadow: 10px 20px 40px gray;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 10%;
+}
+
+.experience{
+    background-image: url(pic/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#full-dev{
+    border-left: solid tomato;
+}
+#baby-dev{
+    border-left: solid blue;
+}
+
+footer p{
+    text-align: center;
+}
