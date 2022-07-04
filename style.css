@@ -12,7 +12,7 @@ h1 {
     color: orange;
 }
 
-section {
+.felx-container {
     display: flex;
 
 }
